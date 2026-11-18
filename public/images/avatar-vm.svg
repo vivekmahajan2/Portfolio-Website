@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050B14"/>
+      <stop offset="50%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#00A6D6"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Circle -->
+  <rect width="200" height="200" rx="100" fill="url(#avatarGrad)"/>
+  
+  <!-- Outer subtle tech rings -->
+  <circle cx="100" cy="100" r="92" stroke="#00A6D6" stroke-width="2" fill="none" opacity="0.3" stroke-dasharray="8 6"/>
+  <circle cx="100" cy="100" r="82" stroke="#38BDF8" stroke-width="1.5" fill="none" opacity="0.4"/>
+  
+  <!-- AI Neural Nodes Connection -->
+  <g opacity="0.25" stroke="#00A6D6" stroke-width="1.5">
+    <line x1="45" y1="55" x2="100" y2="40" />
+    <line x1="100" y1="40" x2="155" y2="55" />
+    <line x1="45" y1="55" x2="60" y2="145" />
+    <line x1="155" y1="55" x2="140" y2="145" />
+    <line x1="60" y1="145" x2="100" y2="165" />
+    <line x1="140" y1="145" x2="100" y2="165" />
+    <circle cx="45" cy="55" r="3" fill="#00A6D6" />
+    <circle cx="100" cy="40" r="3" fill="#00A6D6" />
+    <circle cx="155" cy="55" r="3" fill="#00A6D6" />
+    <circle cx="60" cy="145" r="3" fill="#00A6D6" />
+    <circle cx="140" cy="145" r="3" fill="#00A6D6" />
+    <circle cx="100" cy="165" r="3" fill="#00A6D6" />
+  </g>
+
+  <!-- Stylized Monogram "VM" -->
+  <text x="100" y="118" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="58" font-weight="800" text-anchor="middle" fill="url(#textGrad)" letter-spacing="-2" filter="url(#glow)">
+    VM
+  </text>
+  
+  <!-- Tech Subtitle Badge -->
+  <rect x="52" y="134" width="96" height="18" rx="9" fill="#0B1120" stroke="#00A6D6" stroke-width="1" opacity="0.9"/>
+  <text x="100" y="146" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="8.5" font-weight="700" text-anchor="middle" fill="#00A6D6" letter-spacing="1.5">
+    AI / ML
+  </text>
+</svg>
+
