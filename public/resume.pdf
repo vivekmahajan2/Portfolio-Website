@@ -1,37 +1,152 @@
 %PDF-1.4
-1 0 obj << /Title (Vivek Mahajan - Resume) /Author (Vivek Mahajan) >> endobj
-2 0 obj << /Type /Catalog /Pages 3 0 R >> endobj
-3 0 obj << /Type /Pages /Kids [4 0 R] /Count 1 >> endobj
-4 0 obj << /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 6 0 R >> >> >> endobj
-5 0 obj << /Length 340 >> stream
-BT
-/F1 22 Tf
-50 720 Td
-(Vivek Mahajan - AI/ML Engineer) Tj
-/F1 12 Tf
-0 -30 Td
-(Email: contact@vivekmahajan.dev | Location: Maharashtra, India) Tj
-0 -20 Td
-(Education: Final-year Engineering Student, MIT College | CGPA: 7.99) Tj
-0 -30 Td
-(Specializations: Machine Learning, Deep Learning, Generative AI, RAG, Agentic AI) Tj
-0 -30 Td
-(Please visit portfolio to view full projects and interactive demos.) Tj
-ET
-endstream
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 7 0 R
+>>
 endobj
-6 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
-xref
-0 7
-0000000000 65535 f 
-0000000009 00000 n 
-0000000085 00000 n 
-0000000135 00000 n 
-0000000192 00000 n 
-0000000311 00000 n 
-0000000703 00000 n 
-trailer << /Size 7 /Root 2 0 R >>
-startxref
-779
-%%EOF
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://linkedin.com/in/vivek-mahajan672089426)
+>> /Border [ 0 0 0 ] /Rect [ 389.8618 772.2898 536.5898 781.8898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/vivekmahajan2)
+>> /Border [ 0 0 0 ] /Rect [ 174.7738 761.7898 269.4778 771.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://v0.app/vivek-8ba3/portfolio-website-cyns?utm_source=vercel-dashboard)
+>> /Border [ 0 0 0 ] /Rect [ 276.0058 761.7898 420.5018 771.3898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/vivekmahajan2/IPC.AI_3.git)
+>> /Border [ 0 0 0 ] /Rect [ 89.552 363.5898 253.184 373.1898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ipc-ai.vercel.app/login)
+>> /Border [ 0 0 0 ] /Rect [ 86.904 353.5898 188.28 363.1898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://ipc-ai-backend-j9fp.onrender.com/)
+>> /Border [ 0 0 0 ] /Rect [ 90.448 343.5898 235.84 353.1898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/vivekmahajan2/VidTranscript.git)
+>> /Border [ 0 0 0 ] /Rect [ 89.552 271.0898 268.288 280.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/vivekmahajan2/Semantic-cache.git)
+>> /Border [ 0 0 0 ] /Rect [ 89.552 198.5898 278.52 208.1898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/vivekmahajan2/Laptop_Price_Predictor.git)
+>> /Border [ 0 0 0 ] /Rect [ 89.552 126.0898 304.76 135.6898 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
 
+>> /Type /Page
+>>
+endobj
+15 0 obj
+<<
+/PageMode /UseNone /Pages 17 0 R /Type /Catalog
+>>
+endobj
+16 0 obj
+<<
+/Author (Vivek Jagadish Mahajan) /CreationDate (D:20261118193321+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261118193321+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Vivek Jagadish Mahajan - Resume) /Trapped /False
+>>
+endobj
+17 0 obj
+<<
+/Count 1 /Kids [ 14 0 R ] /Type /Pages
+>>
+endobj
+18 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 4151
+>>
+stream
+Gb"/*D0+F@(B3/tTeF$Ah@#?\hX#^&KTLj>Bdo/1mS%8:KIr-$gN"U.Pb%^3mu_.r5]GFn9>B9H9H%^uTBDa-]Lm1*%K@FH1Ir(gR%j1&#<=E*cB6S_RV4`MrTUB/YFOUAbr4j3NobQ##>`,E>MnAd.sTXu/-c\4Y`t&N>:nt%Kq(WeC3^g1mS?2lG#+Ic!PQGa%]NR'>J.bDE;CJI5G@>V:jr)m+N+N[[jt"iYo4QIG2D[k/L>u.>&CHC/E,7Hi_UllPZ2GGd91CmYg<M#1D#,7+;(ekGrQQIa`.b!dZ@r1?aNcf-Uq"Gg%nL/?lE5M9An[AIA[SGHB-hJFDSI[Tid?Bph^7=NCLs*[?(R_Gb>T?g6e`J,c%DCi1-\-HM)ThI(SFmT&4YE>E+lp4K4FN?*_]'$Lt2mVf>BT<Ph4)0(PDG[B'O5Mml^JfAKuh(='2eXuF7Xo8IZLB/*uj7kt`WP'X?)71"6BlmJJcm:T#TY"@kk;C[tCdFmUKp9m'^F8`6h(N9)7]ij.]cm.=o>J+Npr@6@4,cG95/@X)C_hT('%bGEAmF"&-%\n`a3j#:HK<m[T)5$%@9<qe8N[=cQBg>LdL4i&:LH1Y'4bB(57RD-]7VL**/s_`uLo+jmOpdT,^uq$!Bq0qA&ke01P37D?3>(IVe;Y]m@?!\)&D0%%8O?<H68Vo?"["!oCu_;!(=]WO^?]O-ccDH3E$H.2mhQ-9RM%G&R&;d#C?UhBXRoAHE(s6I6,Y'8h#YYXqa:K7^`=M1*5d,3SWGBobVFDG%>VFcN'.d`GCW%8%5^,>Qbj>j8qS/S>g)[)G/Mqk4Ym!jO4g9n\^7D92!QYH"eDT!Y;slDk1<0+3\UWlp-pp7er8Vhf#KN!`B!?mf9BgE^Vk,p"Yu.QT*`B$GXc0m=4VB!NB!D+APT4jS)N:V^s`I'V>im=.kG4T1oMSmJKth*?.>U.R#hV,?5p+J![s0"De".coHf-4\V3LT#e6neJnHX$8?d=F?eCM0N"[2_6"+c3N%tJV#UC4Vjj=,<<=_)l/6.bng&SN<o,\07A-7R<Hj\/ZJSS&C6AZ,Jn#$b&#GFF_QDo\%Vc6P<X=E+D\'$u./WS`']^'^<KD4i7QZ$'qpMg).?Ws?YVG=WI\TZE'N?CPh+Z!P4@Ir!PY_]'jQ*M2O0-H.*R"<m09hDQ[=j3U?%3;=ZUT/#&"hq1)a4Z`UiEE\U[u/Debp+VFg]mW=\o%'tO4C/R-JIp9GpCFd-^<?Kr(s6XJN17Al@MOs"$Q(-AB!afSNi^Zl]2`Nqr?uaV;deVH*1Lf\9C+$^4H0iII>`,`Kn8:Xk,/hpM[V18U3GXp]5&emV015i>Ac&<pj/t%:Fr4K+no[)YtIE$Pm2nnaN='lU/J]gP'qgGrJnYhl5*TPZt%rlOAghMN\1k6&>=Doa$n+Xth=)7c$gb+(#rtS4IeeJmf`"..omPi,m]=!8o`9QMnurK0)"B<G6T:&[UT.r_H3V9]qn%f`H5bP*fHC:4`XZnK'D45EV>+ZK=f9fkMU-iH&#?[,8K@2s>C>B_'nc31Nq_,HWk[pDo-R<mrS$;\IMa$X%Ql^=?7NDOZ]J:<2F0&?k_r;`qR->29(R7?u@_Piq%cIX:U;Z_A7=G:(!qq!M"aSJTIdT!TK`DtndlnN+Ii?arG/AD/DpoFI%c0tkbo&JPNr#S1%9qH%8`P;/WYe>!OReml*s%8)LW0Ra3(8IbV&,r9rEI7DZAI19HoX;\Hd;,Q("f<m"O:7tVuL_./%^1AIEd?I!O@,rp6-TeG4V:t;YVfoi(L;(B"mAd@A[T'YXk_eDRW$^qo8'eVa\rG10>1^-<\f9>kg=5;VY-!FrngHQ_Nim=$dJ]N?cX9m0#t-UJV8T6\C6uOd?0"jdDL0EEIkk"5-.#A/OV&t)%n#8eT&CP&J.b%D$3/m7Bu"ss$.CsnbhpP/!928q('*tR'/Sp@"Is)0;XD].`U:\r%oi`U9/M>BGY%%6.Vn=i9b)`k[-hM#&N06\U&,/G)Bl(s#6:`)D4suJlF1<(dJ3[pIW&DXTpi*lec$$rWnDJel[32V2Al+gm_Dd5h*HHgN/NE9_D*mbP/K)7FItIKZ(*VA<'k=V<-J$TKf)]I#i_>alIhl7&KF@6:/=5lW;e/R&GB0C0biG)h2Wjh1D[q4?'>ENpc@X&8@J4c6]XhRDAgDd)?(=rB7C*&q6N^M]i&p_<1./X[>VF1e-JZ;$o&dpDoV)lMX_o8.9m/Nd'8=E\7DTh'ZF=89):Ilai]02dlB;66"rrK_8ML8!\'u&c(j:`H3D5cW,KLm:u@.qO<i6;NCH+pC8*-#(_'FhF31(Ck%"s:"1#(BQA,TUF:(^?eqJNe?!QGIQCrpL%4NZUJukJ[e5P4KnI?a`O)I3UN*-DaY.cUS(9.r.5rH\f6>HQqXB(3WEuQ-ai(QjsX%AtQJtGSX%(8g5ZM`6\N'`QfH;[u"g^J!PY>DU&KsC$4W3PLsc`4g,-YGEC38tk'P7_OMLQjZS=JqS#Sn+mJMCJt60<k77L5MrO?s!`p>,WoP*2omF)Kt<92AJ&@[9!U'#uT$+I";n7eKHC15\r!]%Ids<#Vj%3<r30(B57cO*#oY&cYgKLUs-cHoCHHRHKQW+rme72)jR/,?7Pe7JJ]KD>]cD<F\Jp6?:Ji[`XIas8n"2B("Ul<s&@Wsi=,BTr]IMhb4Vc<qpf.;)mT-U2=.4QD7=k_%4"l>PUo'eBFIh5$P0TsQi:Ok1nPBLng)$kOtDG-F[G)5*O6IWTERLUebn#fh/s@6"Q8"[QZ?G;5F&gmX6r5!OJ4g(VBMG-I&e_YND6r5iPLgQWjSmldj`K9"+#KMS_R,cfI1'DD'B<+R.-hZM;D62>EBD#p2+ddMK\^LW^DmH4eTR&A6KYJ:/d9P<?u05,:Z9P>cCF,8Hel/e[Gp<GlSk5aF[Z8NcGb"_55@Np,6;ER8A#M\4Y"(GblHds5\JS-.\umX0X3GAg@dbc*ODG'Ud3?[F\'caEkeT<^3\'M9&d+$$of]<.jm>%GK<fS$Bm!hR3VgncHV(.Bb90;/4-#N/\Ql<(.G"&m?!pU<F+J<[7&Q62pI2mnQi20)`@uD^5;]X]FWHrUXReBK`c\M'f*7ebS/RO5p()67,Xi"mkb:*OOSn^2jOmS[klWi?NpRq8V'(GX&B1fZ(9`&!o4,JoQVnoKe93+#'B4US%pQ_%l#<8HrKCk($ct0/in39EQbIRI_0O=n&)c0!S^VeB00C^pQaXJt.Z/.ONNei'qHu&HH!VgA6YENdK'NYnk#m\s(/hoZ&IiJ:KgS/7rXt9A)+0.93f88/G5,R1"AEchIbo&b,AE<nOfUNO'!l#*+J[pO5E5)Z(LpP,8Fe*MB)D>ZsBpIh:i(=\!=(+a)FnW?\@gn;E@2.hOiA&VNA%Nitf`?%[MWOMcF*ebG0VH9QKn$fj[F8X?%^VeXch+bK!(Z6.2,LT%he*\.E][(]m!Y9UUN$&JQ#o`YFYn*Ys2b0b*t\7XD3msr9tjYdZ-1WflICQ2t3:HM6M!oI+1=$L.(5s$<Bg$.(C(/:/Li)b!4F_\ij7Op:OQuc8L((EhI]hP2,Wo<UG5tM`q<fTLONNmbDN&tm4RFskY*iWD$iujDlX]L\+P1G8UEui!%JW'?"0OrqT]5\;99eL4[IlDg/@Ppp,h^iB?U?:AJqOt[_!t]b,Bc/P;A[@cLZiLiRHVDmtr`foR4Taj1KjYSlrmJXOY>+M52AFnQ*T?_#a*R^SFDs)k7nP9jaW.oi3ii8N9ep&tH1/+9R+Xj_Aj`oIk#)GkngR)e%[taTm5C&<3p:c-6XlDG3bC/reC:Hhn<GNDEC;;%6394:jQQ4JML-gnn.)-H]KuKamoq5c(Wo+$.!B;#o/SN[EKCMG/Yk(NVeV?t6eFSWYb7@,es9uRKYr95Z9Or9$qBMY`uicM[s'bP%siH;mML(ne%tuj3p9Y;-.7:kY^ZC4fVr_Sf/^h$q33E5NU&rsOjO=B'?EL*2s<Y27B9LI,B]fB`"6?d][W"ZIlPi*=$Qq2&:l;je6;.`*JgLP;,pEY:CZ!IP:IdM5i`.oNrh3n<2c-S6Lu>D+Zk[g"uSs\0!+i,jWZ%_o.VQd"!!I,dNA8t5bk/BrgjbLX8`2Y5iNF~>endstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000529 00000 n 
+0000000713 00000 n 
+0000000941 00000 n 
+0000001056 00000 n 
+0000001250 00000 n 
+0000001429 00000 n 
+0000001619 00000 n 
+0000001819 00000 n 
+0000002019 00000 n 
+0000002227 00000 n 
+0000002503 00000 n 
+0000002573 00000 n 
+0000002881 00000 n 
+0000002942 00000 n 
+trailer
+<<
+/ID 
+[<38a55d2e0fb327508cef5c2d0e0ee9ca><38a55d2e0fb327508cef5c2d0e0ee9ca>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 16 0 R
+/Root 15 0 R
+/Size 19
+>>
+startxref
+7185
+%%EOF
